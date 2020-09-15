@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/BookWarm/static/css/main.5f361e03.chunk.css",
-    "main.js": "/BookWarm/static/js/main.fecd7a26.chunk.js",
-    "main.js.map": "/BookWarm/static/js/main.fecd7a26.chunk.js.map",
+    "main.css": "/BookWarm/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/BookWarm/static/js/main.cd780bfa.chunk.js",
+    "main.js.map": "/BookWarm/static/js/main.cd780bfa.chunk.js.map",
     "runtime-main.js": "/BookWarm/static/js/runtime-main.b6635fb3.js",
     "runtime-main.js.map": "/BookWarm/static/js/runtime-main.b6635fb3.js.map",
-    "static/js/2.f32195d8.chunk.js": "/BookWarm/static/js/2.f32195d8.chunk.js",
-    "static/js/2.f32195d8.chunk.js.map": "/BookWarm/static/js/2.f32195d8.chunk.js.map",
+    "static/js/2.269a8d64.chunk.js": "/BookWarm/static/js/2.269a8d64.chunk.js",
+    "static/js/2.269a8d64.chunk.js.map": "/BookWarm/static/js/2.269a8d64.chunk.js.map",
     "index.html": "/BookWarm/index.html",
-    "precache-manifest.028a182b413e2f90d48aeb4cdb11229b.js": "/BookWarm/precache-manifest.028a182b413e2f90d48aeb4cdb11229b.js",
+    "precache-manifest.9e8e700c1ca55e2fc1a058cf1a7f6335.js": "/BookWarm/precache-manifest.9e8e700c1ca55e2fc1a058cf1a7f6335.js",
     "service-worker.js": "/BookWarm/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/BookWarm/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f32195d8.chunk.js.LICENSE.txt": "/BookWarm/static/js/2.f32195d8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/BookWarm/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/BookWarm/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.269a8d64.chunk.js.LICENSE.txt": "/BookWarm/static/js/2.269a8d64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6635fb3.js",
-    "static/js/2.f32195d8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.fecd7a26.chunk.js"
+    "static/js/2.269a8d64.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd780bfa.chunk.js"
   ]
 }
