@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/BookWarm/static/js/main.c55114f7.chunk.js",
-    "main.js.map": "/BookWarm/static/js/main.c55114f7.chunk.js.map",
+    "main.js": "/BookWarm/static/js/main.732ab6e9.chunk.js",
+    "main.js.map": "/BookWarm/static/js/main.732ab6e9.chunk.js.map",
     "runtime-main.js": "/BookWarm/static/js/runtime-main.b6635fb3.js",
     "runtime-main.js.map": "/BookWarm/static/js/runtime-main.b6635fb3.js.map",
-    "static/js/2.dbf7cd1d.chunk.js": "/BookWarm/static/js/2.dbf7cd1d.chunk.js",
-    "static/js/2.dbf7cd1d.chunk.js.map": "/BookWarm/static/js/2.dbf7cd1d.chunk.js.map",
+    "static/css/2.0d2b7baa.chunk.css": "/BookWarm/static/css/2.0d2b7baa.chunk.css",
+    "static/js/2.d3db8c0c.chunk.js": "/BookWarm/static/js/2.d3db8c0c.chunk.js",
+    "static/js/2.d3db8c0c.chunk.js.map": "/BookWarm/static/js/2.d3db8c0c.chunk.js.map",
     "index.html": "/BookWarm/index.html",
-    "precache-manifest.c82af812f4f09034c66b6ccf14c3f75c.js": "/BookWarm/precache-manifest.c82af812f4f09034c66b6ccf14c3f75c.js",
+    "precache-manifest.a75e5db78cbebdb63f100cef2eef859e.js": "/BookWarm/precache-manifest.a75e5db78cbebdb63f100cef2eef859e.js",
     "service-worker.js": "/BookWarm/service-worker.js",
-    "static/js/2.dbf7cd1d.chunk.js.LICENSE.txt": "/BookWarm/static/js/2.dbf7cd1d.chunk.js.LICENSE.txt"
+    "static/css/2.0d2b7baa.chunk.css.map": "/BookWarm/static/css/2.0d2b7baa.chunk.css.map",
+    "static/js/2.d3db8c0c.chunk.js.LICENSE.txt": "/BookWarm/static/js/2.d3db8c0c.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/BookWarm/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b6635fb3.js",
-    "static/js/2.dbf7cd1d.chunk.js",
-    "static/js/main.c55114f7.chunk.js"
+    "static/css/2.0d2b7baa.chunk.css",
+    "static/js/2.d3db8c0c.chunk.js",
+    "static/js/main.732ab6e9.chunk.js"
   ]
 }
