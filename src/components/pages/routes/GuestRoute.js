@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import { Route, Redirect } from "react-router-dom";
 
-const GuestRoute = ({ isAuthenticated, component: Component, ...rest }) => (
+const UserRoute = ({ isAuthenticated, component: Component, ...rest }) => (
     <Route
       {...rest}
       render={props =>
@@ -26,4 +26,4 @@ const GuestRoute = ({ isAuthenticated, component: Component, ...rest }) => (
     };
   }
   
-  export default connect(mapStateToProps)(GuestRoute);
+  export default connect(mapStateToProps)(UserRoute);
